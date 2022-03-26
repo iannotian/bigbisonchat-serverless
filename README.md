@@ -1,2 +1,0 @@
-# bigbisonchat-serverless
-Begin app
